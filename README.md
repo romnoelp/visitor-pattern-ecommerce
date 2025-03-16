@@ -25,4 +25,4 @@ Implement a **Visitor Design Pattern** approach to handle shipping cost calculat
 ✔️ **You are free to name your interfaces and concrete classes**.  
 ✔️ **Provide client code that will test your implementation**.  
 
-🚀 **Make it modular, maintainable, and easy to extend!** Happy coding!  
+![UML](https://github.com/user-attachments/assets/5909b02b-3a98-470a-b5c4-40a731dfb7e4)
